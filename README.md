@@ -1,10 +1,7 @@
 # HTML
-User Story
-as a bootcamp student
-I want the pre-work notes to be structured on a webpage
-so that I can easilt find and read information
+User story:
 
-Acceptance Criteria 
-GIVEN a pre-work study guide website
-WHEN I visit the website in the browser
-THEN I see for boxes titles HTML, CSS, Git, and JavaCScript with associated notes listed
+As a boot camp student, I want the HTML file to include a head element to provide information to the browser so that it can render the page.
+Acceptance criteria:
+
+It is done when I have analyzed and identified <html>, <head>, <meta>, and <title> elements in the index.html file in the prework-study-guide repository.
